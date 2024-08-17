@@ -5,10 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jackc/pgx/v4"
 	"github.com/pkg/errors"
 
-	"github.com/pkorobeinikov/seeder/seeder"
+	"github.com/petr-korobeinikov/seeder/seeder"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/Shopify/sarama"
-	"github.com/pkorobeinikov/seeder/seeder"
+	"github.com/petr-korobeinikov/seeder/seeder"
 )
 
 const (

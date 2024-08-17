@@ -1,4 +1,4 @@
-module github.com/pkorobeinikov/seeder/seeder
+module github.com/petr-korobeinikov/seeder/seeder
 
 go 1.17
 

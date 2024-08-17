@@ -1,6 +1,6 @@
 site_name: seeder
-repo_url: https://github.com/pkorobeinikov/seeder
-repo_name: pkorobeinikov/seeder
+repo_url: https://github.com/petr-korobeinikov/seeder
+repo_name: petr-korobeinikov/seeder
 edit_uri: ""
 theme:
   name: material

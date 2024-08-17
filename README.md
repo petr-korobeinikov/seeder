@@ -37,22 +37,22 @@ seeder:
 
 ## Docs
 
-- https://pkorobeinikov.github.io/seeder/
+- https://petr-korobeinikov.github.io/seeder/
 
 ## Quick start
 
-- https://pkorobeinikov.github.io/seeder/quick-start/
+- https://petr-korobeinikov.github.io/seeder/quick-start/
 
 ## Tutorials
 
-- `postgres`: https://pkorobeinikov.github.io/seeder/tutorial/postgres/
-- `vault`: https://pkorobeinikov.github.io/seeder/tutorial/vault/
-- `s3`: https://pkorobeinikov.github.io/seeder/tutorial/s3/
-- `kafka`: https://pkorobeinikov.github.io/seeder/tutorial/kafka/
+- `postgres`: https://petr-korobeinikov.github.io/seeder/tutorial/postgres/
+- `vault`: https://petr-korobeinikov.github.io/seeder/tutorial/vault/
+- `s3`: https://petr-korobeinikov.github.io/seeder/tutorial/s3/
+- `kafka`: https://petr-korobeinikov.github.io/seeder/tutorial/kafka/
 
 ## Install
 
-- https://pkorobeinikov.github.io/seeder/install/
+- https://petr-korobeinikov.github.io/seeder/install/
 
 ## Flags (needs rework 🚧)
 

@@ -10,9 +10,8 @@ import (
 	"path/filepath"
 
 	"github.com/Shopify/sarama"
+	"github.com/petr-korobeinikov/seeder/seeder"
 	"github.com/pkg/errors"
-	"github.com/pkorobeinikov/seeder/seeder"
-	"gopkg.in/yaml.v3"
 )
 
 const (

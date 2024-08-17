@@ -8,15 +8,13 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/petr-korobeinikov/seeder/seeder"
 	"github.com/pkg/errors"
-	"gopkg.in/yaml.v3"
 
-	"github.com/pkorobeinikov/seeder/seeder"
-
-	_ "github.com/pkorobeinikov/seeder/seeder/internal/kafka"
-	_ "github.com/pkorobeinikov/seeder/seeder/internal/postgres"
-	_ "github.com/pkorobeinikov/seeder/seeder/internal/s3"
-	_ "github.com/pkorobeinikov/seeder/seeder/internal/vault"
+	_ "github.com/petr-korobeinikov/seeder/seeder/internal/kafka"
+	_ "github.com/petr-korobeinikov/seeder/seeder/internal/postgres"
+	_ "github.com/petr-korobeinikov/seeder/seeder/internal/s3"
+	_ "github.com/petr-korobeinikov/seeder/seeder/internal/vault"
 )
 
 func main() {

@@ -11,4 +11,4 @@
 
 ## Issues
 
-- [https://github.com/pkorobeinikov/seeder/issues](https://github.com/pkorobeinikov/seeder/issues)
+- [https://github.com/petr-korobeinikov/seeder/issues](https://github.com/petr-korobeinikov/seeder/issues)

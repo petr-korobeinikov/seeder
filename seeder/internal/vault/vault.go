@@ -7,10 +7,8 @@ import (
 	"strings"
 
 	"github.com/hashicorp/vault/api"
+	"github.com/petr-korobeinikov/seeder/seeder"
 	"github.com/pkg/errors"
-	"gopkg.in/yaml.v3"
-
-	"github.com/pkorobeinikov/seeder/seeder"
 )
 
 const (

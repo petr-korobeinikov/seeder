@@ -4,10 +4,9 @@ import (
 	"context"
 	"os"
 
-	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
+	"github.com/petr-korobeinikov/seeder/seeder"
 	"github.com/pkg/errors"
-	"github.com/pkorobeinikov/seeder/seeder"
 )
 
 const (
